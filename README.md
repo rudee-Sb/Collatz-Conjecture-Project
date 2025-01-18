@@ -23,7 +23,7 @@ This project is a fun way to dive into the Collatz Conjecture and visualize how 
 - Pandas
 
 ```bash
-  pip install matplotlib
+  pip install matplotlib pandas
 ```
   
 ## License
