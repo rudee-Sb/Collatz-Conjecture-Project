@@ -10,8 +10,8 @@ The Collatz Conjecture is a mathematical sequence defined as follows : Start wit
 The conjecture states that no matter what value of \( n \) you start with, you will always eventually reach 1.
 
 This project explores the Collatz Conjecture with :
-- **`collatz_processor.py`** : Calculates the sequence for a given number.
-- **`collatz_plotter.py`** : Plots the sequence using Matplotlib.
+- **`collatz_conjecture.py`** : Calculates the sequence for a given number.
+- **`collatz_csv.py`** : Plots the sequence using Matplotlib.
 
 
 ## Why This Matters
@@ -20,9 +20,10 @@ This project is a fun way to dive into the Collatz Conjecture and visualize how 
 ## Requirements
 - Python 3+
 - Matplotlib
-  ``` bash
+
+```bash
   pip install matplotlib
-  ```
+```
   
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
