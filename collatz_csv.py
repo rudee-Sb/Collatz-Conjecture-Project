@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import collatz_csv
+import collatz_conjecture
 
 plt.style.use("fivethirtyeight")
 data = pd.read_csv("data.csv")
