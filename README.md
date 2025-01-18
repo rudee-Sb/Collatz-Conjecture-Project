@@ -11,7 +11,7 @@ The conjecture states that no matter what value of \( n \) you start with, you w
 
 This project explores the Collatz Conjecture with :
 - **`collatz_conjecture.py`** : Calculates the sequence for a given number.
-- **`collatz_csv.py`** : Plots the sequence using Matplotlib.
+- **`collatz_csv.py`** : Plots the sequence using Matplotlib and pandas.
 
 
 ## Why This Matters
@@ -20,6 +20,7 @@ This project is a fun way to dive into the Collatz Conjecture and visualize how 
 ## Requirements
 - Python 3+
 - Matplotlib
+- Pandas
 
 ```bash
   pip install matplotlib
